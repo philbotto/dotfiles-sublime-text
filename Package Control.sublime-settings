@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Dotfiles Syntax Highlighting",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements"

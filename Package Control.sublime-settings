@@ -2,8 +2,12 @@
 	"installed_packages":
 	[
 		"Dotfiles Syntax Highlighting",
+		"GitGutter",
+		"Markdown Preview",
 		"Package Control",
+		"RubyTest",
 		"SCSS",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
 	]
 }

@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"CoffeeScript",
 		"Dotfiles Syntax Highlighting",
 		"GitGutter",
 		"Handlebars",

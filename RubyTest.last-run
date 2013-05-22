@@ -1,4 +1,0 @@
-{
-	"last_test_run": "bundle exec rspec spec/controllers/new_joiner_controller_spec.rb",
-	"last_test_working_dir": "/home/phil.bottomley/workspace/nestle-website-uk"
-}

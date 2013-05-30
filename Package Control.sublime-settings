@@ -10,6 +10,7 @@
 		"RubyTest",
 		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter"
 	]
 }

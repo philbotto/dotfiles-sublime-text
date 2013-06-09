@@ -11,6 +11,7 @@
 	"fallback_encoding": "UTF-8",
 	"font_size": 10,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -22,6 +23,7 @@
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
+	"remember_open_files": false,
 	"scroll_past_end": false,
 	"spell_check": false,
 	"tab_completion": true,

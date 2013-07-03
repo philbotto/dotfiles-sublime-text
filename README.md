@@ -1,6 +1,6 @@
 # Dotfiles
 
-Sublime Text 2 preferences and configuration files.
+Sublime Text 3 preferences and configuration files.
 
 ## Copyright
 

@@ -2,8 +2,13 @@
   "sublimelinter": "load-save",
 
   "sublimelinter_executable_map": {
-    "ruby": "",
+    "ruby": "rvm-auto-ruby",
     "javascript": "nodejs",
     "css": "nodejs"
+  },
+  "sublimelinter_syntax_map":
+  {
+    "RSpec": "ruby",
+    "Ruby on Rails": "ruby"
   }
 }

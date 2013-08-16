@@ -10,6 +10,7 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
+	"folder_exclude_patterns": [".sass-cache", ".git", ".tmp", "node_modules"],
 	"font_size": 10,
 	"highlight_line": true,
 	"hot_exit": false,

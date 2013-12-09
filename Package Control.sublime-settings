@@ -4,9 +4,12 @@
 	[
 		"CoffeeScript",
 		"Dotfiles Syntax Highlighting",
+		"Emmet",
 		"GitGutter",
 		"Handlebars",
+		"LESS",
 		"Package Control",
+		"Razor",
 		"RubyTest",
 		"SCSS"
 	]
